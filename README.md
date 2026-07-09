@@ -111,11 +111,3 @@ This is a **console-based Tetris game** implemented in **C++**. It follows the c
 
 ---
 
-## **Contact**  
-📧 Email: **nitiram2506@gmail.com**  
-🌐 GitHub: **[your-github-profile](https://github.com/tirthsolnki06)**  
-📢 Feedback & Suggestions are Welcome!  
-
----
-
-🚀 **Enjoy Playing Tetris!** 🚀
